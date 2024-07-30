@@ -1,4 +1,4 @@
-package com.preslavrachev.kandas.core
+package com.jamesbrookssoft.kandas.core
 
 /**
  * A type union between 2 or more types.

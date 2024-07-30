@@ -1,8 +1,8 @@
-package com.preslavrachev.kandas
+package com.jamesbrookssoft.kandas
 
-import com.preslavrachev.kandas.core.input.InputData
-import com.preslavrachev.kandas.core.input.KandasDataProvider
-import com.preslavrachev.kandas.core.input.ListInput
+import com.jamesbrookssoft.kandas.core.input.InputData
+import com.jamesbrookssoft.kandas.core.input.KandasDataProvider
+import com.jamesbrookssoft.kandas.core.input.ListInput
 import koma.extensions.get
 import koma.ndarray.NDArray
 

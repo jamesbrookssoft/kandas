@@ -1,4 +1,4 @@
-package com.preslavrachev.kandas.core
+package com.jamesbrookssoft.kandas.core
 
 /**
  *  A base class for various kandas objects.

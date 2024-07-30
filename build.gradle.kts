@@ -1,6 +1,6 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
-group = "com.preslavrachev"
+group = "com.jamesbrookssoft"
 version = "0.1-SNAPSHOT"
 
 buildscript {

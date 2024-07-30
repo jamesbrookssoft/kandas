@@ -1,4 +1,4 @@
-package com.preslavrachev.kandas.core.input
+package com.jamesbrookssoft.kandas.core.input
 
 import koma.extensions.fill
 import koma.ndarray.NDArray

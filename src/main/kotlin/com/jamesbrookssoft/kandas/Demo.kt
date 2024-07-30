@@ -1,4 +1,4 @@
-package com.preslavrachev.kandas
+package com.jamesbrookssoft.kandas
 
 fun main(args: Array<String>) {
     val df = DataFrame(listOf(

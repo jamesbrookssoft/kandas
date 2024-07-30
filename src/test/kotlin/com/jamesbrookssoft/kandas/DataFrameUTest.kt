@@ -1,4 +1,4 @@
-package com.preslavrachev.kandas
+package com.jamesbrookssoft.kandas
 
 import assertk.assertThat
 import assertk.assertions.containsOnly

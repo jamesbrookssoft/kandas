@@ -1,4 +1,4 @@
-package com.preslavrachev.kandas.core
+package com.jamesbrookssoft.kandas.core
 
 /**
  * Canonical n-dimensional unit of homogeneous dtype contained in a pandas
